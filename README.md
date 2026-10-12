@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m currently working on creating a cloud resume web app in Azure.
+🌱 I’m currently learning Azure Cloud and preparing for the AZ-104 exam.
+⚡ Fun fact: I was a 100 mile finisher at the 2023 Georgia Jewel, it took me 32hrs.
+
 <!--
 **dgarcia917/dgarcia917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
